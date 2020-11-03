@@ -1,0 +1,10 @@
+banana
+maca
+pera
+laranja
+uva
+manga
+pessego
+azul
+amarelo
+verde
